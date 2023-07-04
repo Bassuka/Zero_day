@@ -1,6 +1,6 @@
 #**First Git readme file**
 
-##*Tryin emac using mardown italic*
+##*Tryin emac using markdown italic*
 
 1. This is so cool
 2.new project
